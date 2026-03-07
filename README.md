@@ -13,30 +13,24 @@
 
 <table border="0">
   <tr>
-    <td width="65%" style="vertical-align: top;">
-      <p>Chào mừng bạn đến với không gian kỹ thuật - sản phẩm của tôi.</b>, tôi tập trung vào việc xây dựng các hệ thống có khả năng mở rộng và tùy biến, tạo trải nghiệm người dùng .</p>
+    <td width="60%" valign="top">
+      <p>Chào mừng bạn đến với không gian kỹ thuật của tôi. Tôi tập trung xây dựng các hệ thống có khả năng mở rộng, tối ưu hóa hiệu suất và tinh gọn trải nghiệm người dùng.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Scalability-blue?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Focus-Scalability-70a5fd?style=flat-square" /> 
         <img src="https://img.shields.io/badge/Design-Minimalism-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/Philosophy-Clean_Code-brightgreen?style=flat-square" />
       </p>
-      
       <hr />
-      <ul>
-        <li>🏙️ <b>Thành phố:</b> Đà Nẵng - Việt Nam</li>
-        <li>💼 <b>Học vấn:</b> Sinh Viên Ngành Công Nghệ Thông Tin</li>
-        <li>💼 <b>Trường:</b> ĐH Công Nghệ Thông Tin Và Truyền Thông Việt Hàn</li>
-        <li>💼 <b>Đại Học:</b> Đà Nẵng</li>
-        <li>💼 <b>Hiện tại:</b> Sinh viên năm 2</li>
-        <li>💼 <b>Ngôn Ngữ:</b> Tiếng Việt - Tiếng Anh</li>
-        <li>🔭 <b>Nghiên cứu:</b></li>
-        <li>⚡ <b>Châm ngôn:</b> "Code is poetry written for machines to interpret and humans to admire."</li>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🏙️ <b>Thành phố:</b> Đà Nẵng, Việt Nam</li>
+        <li>🎓 <b>Học vấn:</b> IT Student @ <b>VKU</b></li>
+        <li>📅 <b>Hiện tại:</b> Sinh viên năm 2</li>
+        <li>🌐 <b>Ngôn ngữ:</b> Tiếng Việt - Tiếng Anh</li>
+        <li>⚡ <b>Châm ngôn:</b> <i>"Code is poetry."</i></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-     <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ3B0YnlueTlvYXQwdm1mMG8wdmE2OWM2N2w0MWhzMDV2MTR5ciZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Lập trình viên hoạt hình đang làm việc" />
-</p>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ3B0YnlueTlvYXQwdm1mMG8wdmE2OWM2N2w0MWhzMDV2MTR5ciZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:300px; border-radius:10px;" />
     </td>
   </tr>
 </table>
