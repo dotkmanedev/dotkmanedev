@@ -11,7 +11,7 @@
 <table border="0">
   <tr>
     <td width="65%" style="vertical-align: top;">
-      <p>Chào mừng bạn đến với không gian kỹ thuật - sản phẩm của tôi.</b>, tôi tập trung vào việc xây dựng các hệ thống có khả năng mở rộng và tùy biến, tạo trải nghiệm người dùng .</p>
+      <p>Chào mừng bạn đến với không gian kỹ thuật - sản phẩm của tôi</b>, tôi tập trung vào việc xây dựng các hệ thống có khả năng mở rộng và tùy biến, tạo trải nghiệm người dùng .</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Focus-Scalability-blue?style=flat-square" /> 
         <img src="https://img.shields.io/badge/Design-Minimalism-61DAFB?style=flat-square" />
