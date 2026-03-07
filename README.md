@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Backend+Developer;Vibe+Coding;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dotkmanedev&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="dotkmanedev profile views" />
+</p>
 
 ## 💎 Professional Overview
 
