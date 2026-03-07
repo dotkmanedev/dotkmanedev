@@ -101,10 +101,6 @@
 
 ## 🤝 Let's Connect
 
-🎨 Tại sao nên dùng cái này?
-Độ ổn định cao: Dịch vụ của Komarev cực kỳ lì, hiếm khi bị lỗi 404 hay ảnh vỡ.
-
-Tùy biến màu sắc: Tôi đã ép thông số color=70a5fd để nó trùng khớp hoàn toàn với cái màu xa
 <p align="center">
 <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="[LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
