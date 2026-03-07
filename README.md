@@ -58,6 +58,10 @@
 ## 📊 Engineering Metrics
 
 <p align="center">
+  <img width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dotkmanedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Rank" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotkmanedev&theme=tokyonight" />
 </p>
 
