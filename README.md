@@ -5,21 +5,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Backend+Developer;Vibe+Coding;Open+Source+Contributor" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dotkmanedev&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="dotkmanedev profile views" />
-</p>
+
 
 ## 💎 Professional Overview
+
+
 
 <table border="0">
   <tr>
     <td width="65%" style="vertical-align: top;">
-      <p>Chào mừng bạn đến với không gian kỹ thuật - sản phẩm của tôi</b>, tôi tập trung vào việc xây dựng các hệ thống có khả năng mở rộng và tùy biến, tạo trải nghiệm người dùng .</p>
+      <p>Chào mừng bạn đến với không gian kỹ thuật - sản phẩm của tôi.</b>, tôi tập trung vào việc xây dựng các hệ thống có khả năng mở rộng và tùy biến, tạo trải nghiệm người dùng .</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Focus-Scalability-blue?style=flat-square" /> 
         <img src="https://img.shields.io/badge/Design-Minimalism-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/Philosophy-Clean_Code-brightgreen?style=flat-square" />
       </p>
+      
       <hr />
       <ul>
         <li>🏙️ <b>Thành phố:</b> Đà Nẵng - Việt Nam</li>
@@ -65,6 +66,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotkmanedev&theme=tokyonight" width="450" />
+</p>
+
+
+
+<p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotkmanedev&theme=tokyonight" />
 </p>
 
@@ -86,6 +93,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ## 🚀 Recent Projects
 <!-- | Project | Description | Tech Stack | Status | -->
 <!-- | :--- | :--- | :--- | :--- | -->
@@ -95,6 +106,11 @@
 ---
 
 ## 🤝 Let's Connect
+
+🎨 Tại sao nên dùng cái này?
+Độ ổn định cao: Dịch vụ của Komarev cực kỳ lì, hiếm khi bị lỗi 404 hay ảnh vỡ.
+
+Tùy biến màu sắc: Tôi đã ép thông số color=70a5fd để nó trùng khớp hoàn toàn với cái màu xa
 <p align="center">
 <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="[LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
