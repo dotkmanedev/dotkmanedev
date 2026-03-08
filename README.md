@@ -39,17 +39,17 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwindcss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
 </p>
 
 ### ⚙️ Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,php" />
 </p>
 
 
