@@ -16,7 +16,7 @@
     <td width="60%" valign="top">
       <p>Chào mừng bạn đến với không gian kỹ thuật của tôi. Tôi tập trung xây dựng các hệ thống có khả năng mở rộng, tối ưu hóa hiệu suất và tinh gọn trải nghiệm người dùng.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Scalability-70a5fd?style=flat-square" /> 
+      <a href="https://www.facebook.com/manhnoprob26">  <img src="https://img.shields.io/badge/Focus-Scalability-70a5fd?style=flat-square" /></a> 
         <img src="https://img.shields.io/badge/Design-Minimalism-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/Philosophy-Clean_Code-brightgreen?style=flat-square" />
       </p>
