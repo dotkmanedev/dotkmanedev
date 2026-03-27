@@ -39,18 +39,18 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
 ### ⚙️ Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,php" />
-</p>
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p> -->
 
 
 ## 📊 Engineering Metrics
