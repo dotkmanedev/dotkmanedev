@@ -44,7 +44,7 @@
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i" />
 </p>
 
 ### ⚙️ Languages
