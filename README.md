@@ -39,7 +39,7 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i" />
 </p>
 
 ### ⚙️ Backend
