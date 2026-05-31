@@ -48,9 +48,9 @@
 </p>
 
 ### ⚙️ Languages
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p> -->
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,php" />
+</p> 
 
 
 ## 📊 Engineering Metrics
